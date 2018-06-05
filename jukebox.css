@@ -1,0 +1,78 @@
+body {
+  background-image: url('images/pulse.gif');
+}
+
+h1 {
+  font-style: italic;
+}
+
+.audio-player-cont {
+  width: 450px;
+  height: 135px;
+  background: #green box-shadow: 0 0 6px 2px #c7a8a8;
+  color: #003ba9;
+  font-family: helvetica;
+  font-size: 16px;
+}
+
+.logo {
+  position: absolute;
+}
+
+#btn1 {
+  background-color: green;
+}
+
+#btn2 {
+  background-color: red;
+}
+
+#displaybox {
+  height: 60px;
+  width: 300px;
+  border: 1px #ed490a;
+  background-color: #e12607;
+  position: absolute;
+  left: 36%;
+  top: 50%;
+}
+
+/* #displaybox {
+  height: 60px;
+  width: 300px;
+  border: 1px solid green;
+  background-color: green;
+  position: absolute;
+  left: 60%;
+  top: 50%;
+} */
+
+#displaybox2 {
+  height: 60px;
+  width: 300px;
+  border: 1px #ed490a;
+  background-color: #988989;
+  position: absolute;
+  left: 36%;
+  top: 30%;
+}
+
+#displaybox3 {
+  height: 60px;
+  width: 300px;
+  border: 1px solid #ed490a;
+  background-color: #988989;
+  position: absolute;
+  left: 36%;
+  top: 10%;
+}
+
+#displaybox4 {
+  height: 100px;
+  width: 300px;
+  border: 1px solid #ed490a;
+  background-color: #988989;
+  position: absolute;
+  left: 61%;
+  top: 50%;
+}
